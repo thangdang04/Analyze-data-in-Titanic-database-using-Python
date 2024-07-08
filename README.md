@@ -1,1 +1,1 @@
-# Analyze-data-in-Titanic-database-using-Python
+# Data analysis project on Titanic database
